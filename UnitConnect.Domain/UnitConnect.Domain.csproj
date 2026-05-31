@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>
+    <RootNamespace>UnitConnect.Domain</RootNamespace>
+    <AssemblyName>UnitConnect.Domain</AssemblyName>
+    <!-- Domain layer has zero dependencies on frameworks or infrastructure -->
+  </PropertyGroup>
+
+</Project>
