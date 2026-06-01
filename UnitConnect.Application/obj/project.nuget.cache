@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0+JieX+AO/k=",
+  "success": true,
+  "projectFilePath": "/home/phil/projects/UnitConnect/UnitConnect.API/UnitConnect.Application/UnitConnect.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/phil/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.8/microsoft.extensions.dependencyinjection.abstractions.10.0.8.nupkg.sha512",
+    "/home/phil/.nuget/packages/microsoft.extensions.options/10.0.8/microsoft.extensions.options.10.0.8.nupkg.sha512",
+    "/home/phil/.nuget/packages/microsoft.extensions.primitives/10.0.8/microsoft.extensions.primitives.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

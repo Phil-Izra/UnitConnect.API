@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="UnitConnect.Application/UnitConnect.Application.csproj" />
+  <Project Path="UnitConnect.Domain/UnitConnect.Domain.csproj" />
+  <Project Path="UnitConnect.Infrastructure/UnitConnect.Infrastructure.csproj" />
+</Solution>
